@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590969300 source:c:\users\ice-r\desktop\pl\pprojeccctt\555\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
